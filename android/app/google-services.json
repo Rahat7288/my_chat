@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624550566112",
+    "firebase_url": "https://mychat-1956b-default-rtdb.firebaseio.com",
+    "project_id": "mychat-1956b",
+    "storage_bucket": "mychat-1956b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624550566112:android:1cf0365ee1ed28e635d885",
+        "android_client_info": {
+          "package_name": "com.rahat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624550566112-9atf6upp6kvq6ko43lo6ruaqtj1btfst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArE4undmYlrjR6iPvwjyLmWUH_LeIm6XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624550566112-9atf6upp6kvq6ko43lo6ruaqtj1btfst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
